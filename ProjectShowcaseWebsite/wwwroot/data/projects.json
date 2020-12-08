@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "Senior-Project",
+    "ProjectName": "Bei-Bei's Programming Puzzles",
+    "GitURL": "https://github.com/ryanmueller28/BeiBei-ProgrammingPuzzles",
+    "URL": "",
+    "Description": "A game made in C++ to teach Python Programming",
+    "img": "https://i.imgur.com/2XLN9i7.jpg"
+  },
+  {
+    "Id": "RPG Character Sheet Android App",
+    "ProjectName": "Genesys Character Sheet App",
+    "GitURL": "https://github.com/ryanmueller28/GenesysCharacterSheetApp",    
+    "URL": "",
+    "Description": "A character sheet for the Genesys RPG",
+    "img": "https://images-cdn.fantasyflightgames.com/filer_public/70/67/7067c9e1-60bb-49ae-9b11-7d6e7926961d/gns01_anc_slider.jpg"
+  }
+
+]

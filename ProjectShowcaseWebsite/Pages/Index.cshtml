@@ -1,0 +1,14 @@
+﻿@page
+@using ProjectShowcaseWebsite.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Ryan Mueller's Project Showcase Website</h1>
+</div>
+
+@(await Html.RenderComponentAsync<ProjectList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
