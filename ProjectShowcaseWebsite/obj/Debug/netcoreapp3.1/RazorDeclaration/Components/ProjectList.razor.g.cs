@@ -41,7 +41,7 @@ using ProjectShowcaseWebsite.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 62 "D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\Components\ProjectList.razor"
+#line 68 "D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\Components\ProjectList.razor"
  
     Project selectedProject;
     string selectedProjectId;
@@ -53,6 +53,7 @@ using ProjectShowcaseWebsite.Services;
     }
 
     string gitURL;
+    string mainURL;
 
     void GetProjectGitLink()
     {
@@ -65,6 +66,20 @@ using ProjectShowcaseWebsite.Services;
             gitURL = selectedProject.GitURL;
             System.Console.WriteLine($"The GitHub link for project {selectedProject.Id}: {selectedProject.ProjectName} is {gitURL}");
         }
+    }
+
+    string GetProjectMainPage()
+    {
+        if (selectedProject.URL == null)
+        {
+            System.Console.WriteLine($"That page for proejct {selectedProject.Id}: {selectedProject.ProjectName} is under construction");
+        }
+        else
+        {
+            mainURL = selectedProject.URL;
+        }
+
+        return mainURL;
     }
 
 #line default

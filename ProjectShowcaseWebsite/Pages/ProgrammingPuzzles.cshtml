@@ -1,0 +1,33 @@
+﻿@page
+@model ProjectShowcaseWebsite.Pages.ProgrammingPuzzlesModel
+
+@{
+    ViewData["Title"] = "Bei-Bei's Programming Puzzles";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">About Bei-Bei's Programming Puzzles</h1>
+</div>
+
+@*
+    To DO:
+    ADD image and link to download
+*@
+
+<section id="main">
+    <p>
+        <i>Bei-Bei's Programming Puzzles</i> is a game made to teach Python Programming.
+        The game is built in a custom engine using <a href="https://www.sfml-dev.org/">Simple Fast Multimedia Library (SFML)</a> for the rendering of the game
+        and the <a href="https://docs.python.org/3/c-api/index.html">Python C API</a> as an embedded Python interpreter, with
+        <a href="https://github.com/nlohmann/json">Niels Lohmann's JSON for Modern C++</a> to provide lesson and level data.       
+        This project was my senior capstone project, I wrote a paper on this project titled
+        <a href="https://drive.google.com/file/d/1qLhCd88UYtjLU0Wi7PpVt_ogtqYuYwOV/view?usp=sharing">Exploring Embedded Systems Through Educational Game Design.</a>
+    </p>   
+</section>
+
+<section id="gitlink">
+    <h5>
+        <a href="https://github.com/ryanmueller28/BeiBei-ProgrammingPuzzles">The GitHub repository and source code</a>
+    </h5>
+</section>

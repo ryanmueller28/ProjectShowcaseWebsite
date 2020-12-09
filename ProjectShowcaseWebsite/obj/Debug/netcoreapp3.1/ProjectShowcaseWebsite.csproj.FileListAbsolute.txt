@@ -21,9 +21,6 @@ D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectSho
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectShowcaseWebsite.TagHelpers.output.cache
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectShowcaseWebsite.RazorCoreGenerate.cache
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Components\ProjectList.razor.g.cs
-D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -40,3 +37,13 @@ D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectSho
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectShowcaseWebsite.pdb
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectShowcaseWebsite.genruntimeconfig.cache
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\ProjectShowcaseWebsite.csproj.CopyComplete
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\ProgrammingPuzzles.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\GenesysCharacterSheetApp.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\GodotGameWorkshopProjects.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\LostResearchStation.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\MusicMachineLearning.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\UnrealEngineSciFiRPG.cshtml.g.cs

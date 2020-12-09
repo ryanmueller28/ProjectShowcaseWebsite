@@ -42,6 +42,12 @@
                     </div>
                     <div class="card-body">
                         <p class="card-text">@selectedProject.Description</p>
+                        @if (selectedProject.URL != "")
+                        {
+                            <span>
+                                <a href="@selectedProject.URL">Check this project out for yourself!</a>
+                            </span>
+                        }
                     </div>
                 </div>
             </div>
@@ -70,6 +76,7 @@
     }
 
     string gitURL;
+    string mainURL;
 
     void GetProjectGitLink()
     {
@@ -82,5 +89,19 @@
             gitURL = selectedProject.GitURL;
             System.Console.WriteLine($"The GitHub link for project {selectedProject.Id}: {selectedProject.ProjectName} is {gitURL}");
         }
+    }
+
+    string GetProjectMainPage()
+    {
+        if (selectedProject.URL == null)
+        {
+            System.Console.WriteLine($"That page for proejct {selectedProject.Id}: {selectedProject.ProjectName} is under construction");
+        }
+        else
+        {
+            mainURL = selectedProject.URL;
+        }
+
+        return mainURL;
     }
 }
