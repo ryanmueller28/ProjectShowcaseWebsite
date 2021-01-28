@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace ProjectShowcaseWebsite.Pages
 {
-    public class MusicMachineLearningModel : PageModel
+    public class CookiesWayHomeModel : PageModel
     {
         public void OnGet()
         {

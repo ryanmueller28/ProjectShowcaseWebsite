@@ -47,3 +47,4 @@ D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Page
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\LostResearchStation.cshtml.g.cs
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\MusicMachineLearning.cshtml.g.cs
 D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\UnrealEngineSciFiRPG.cshtml.g.cs
+D:\Dev\ProjectShowcase\ProjectShowcaseWebsite\obj\Debug\netcoreapp3.1\Razor\Pages\CookiesWayHome.cshtml.g.cs
